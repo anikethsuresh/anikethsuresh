@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello!
+Glad you stumbled upon my humble space in the ☁
 
-<!--
-**anikethsuresh/anikethsuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a bunch of interesting projects that I've been working on.
 
-Here are some ideas to get you started:
+I also have these things going for me right now, do get in touch (anikethsuresh at gmail dot com) if you'd like to collaborate!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Getting out a Youtube course in Computer Vision. Having taken Computer Vision (graduate level) in university, I was saddened to note the lack of easy to understand material on computer vision, therefore the intention behind the course.
+2. Solutions to LeetCode/ HackerRank problems. I'm in the process of looking for a job, and I'm sure that if this can help me, it will surely help someone else as well!
+
+Well, that's about all, for now!
+
+Thanks for stopping by!
